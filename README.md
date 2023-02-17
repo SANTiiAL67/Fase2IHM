@@ -17,3 +17,6 @@ Puedes seguir la estructura que proponemos en este enunciado o crear una propia.
  Software Utilizado:
 https://www.figma.com/
 
+EL MAPA DE NAVEGACIÓN ES: https://www.figma.com/file/1Knh7xesJjVdBxRGyXyKXA/Mapa-de-Navegaci%C3%B3n?node-id=0%3A1&t=PqwPdTZPBlH4BgJG-1
+EL MAPA DE ARQUITECTURA ES: https://www.figma.com/file/baOMThyUpwUDVmG3XNy6LQ/Mapa-de-Arquitectura?node-id=0%3A1&t=CEpmqzZSpbBKam1r-1
+EL FLUJOGRAMA ES: https://www.figma.com/file/4ARwrCura8m4WgA90LmNs0/Flujograma?node-id=0%3A1&t=VJr579j4zqIzLL5H-1
